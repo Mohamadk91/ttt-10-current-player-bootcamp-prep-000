@@ -4,3 +4,4 @@ def turn_count(board)
     if place == "X" or place == "O"
     end
   end
+count
